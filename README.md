@@ -1,2 +1,2 @@
 # CV
-CV en reaveal.js
+CV en reveal.js
